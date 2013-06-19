@@ -88,7 +88,7 @@ class Api
         ));
         $response = curl_exec($ch);
         curl_close($ch);
-        echo $response . PHP_EOL;
+
         $data = json_decode($response, true);
         
         unset($response);
