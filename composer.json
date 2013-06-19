@@ -2,7 +2,7 @@
     "name": "keyser-soze/allocine",
     "type": "library",
     "description": "A PHP 5.3+ framework for AlloCine API",
-    "keywords": ["sdk","Allocine", "api"],
+    "keywords": ["sdk", "Allocine", "api"],
     "license": "MIT",
     "authors": [
         {
