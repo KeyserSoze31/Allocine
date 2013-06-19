@@ -1,0 +1,24 @@
+{
+    "name": "KeyserSoze/Allocine",
+    "type": "library",
+    "description": "A PHP 5.3+ framework for AlloCine API",
+    "keywords": ["sdk","Allocine", "api"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Keyser Söze"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "lib-curl": "*"
+    },
+    "require-dev": {
+        "atoum/atoum": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "Allocine": "src/"
+        }
+    }
+}
