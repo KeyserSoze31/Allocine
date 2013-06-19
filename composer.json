@@ -1,5 +1,5 @@
 {
-    "name": "KeyserSoze/Allocine",
+    "name": "keyser-soze/allocine",
     "type": "library",
     "description": "A PHP 5.3+ framework for AlloCine API",
     "keywords": ["sdk","Allocine", "api"],
